@@ -5,7 +5,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![RO:TX][RO:TX Screen shot]](https://cdn.discordapp.com/attachments/884020479009099797/884038097665409094/unknown.png)
+[RO:TX][RO:TX Screen shot]](https://cdn.discordapp.com/attachments/884020479009099797/884038097665409094/unknown.png)
 RO:TX is an amzing Lua script for roblox. We have already made textures for robux and path-tracing simulation. 
 Softwares like roshade fails to perform ray-tracing. Roshade only adds overlays to the software named as roblox. Therefore messing up all the screenguis and core guis.
 
