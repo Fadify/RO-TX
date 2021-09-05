@@ -17,7 +17,7 @@ We are always improving our project. Other aim is to make roblox as realistic as
 This section should list software used that RO:TX is built with:
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Roblox Engine](https://roblox.com)
-* [Your Brain](https://brain.com)
+* [Your Brain](https://en.wikipedia.org/wiki/Brain)
 
 
 
