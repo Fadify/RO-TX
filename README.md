@@ -30,7 +30,7 @@ See the [open issues](https://github.com/Fadify/RO:TX/issues) for a list of prop
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://dsc.gg/rotx](https://dsc.gg/rotx)
+Project Link: [https://dsc.gg/raytracing](https://dsc.gg/raytracing)
 
 
 
